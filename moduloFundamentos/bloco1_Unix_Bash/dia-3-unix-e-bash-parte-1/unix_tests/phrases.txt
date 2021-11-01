@@ -1,0 +1,2 @@
+Inicio dos estudos na Trybe.
+Vamos praticar o conteúdo Unix e Bash.
